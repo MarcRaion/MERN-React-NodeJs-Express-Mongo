@@ -1,0 +1,8 @@
+.gradient-primary {
+  width: 76px;
+  left: calc(50% - 76px / 2 - 62.5px);
+  top: 0.21%;
+  bottom: 91.79%;
+  /* 1) Theme Color / Primary */
+  background: #74ff51;
+  border-radius: 5px; }
